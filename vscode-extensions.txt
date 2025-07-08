@@ -1,0 +1,4 @@
+ms-python.python
+ms-toolsai.jupyter
+njpwerner.autodocstring
+ms-python.mypy-type-checker

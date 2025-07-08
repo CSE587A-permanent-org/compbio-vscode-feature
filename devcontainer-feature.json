@@ -1,0 +1,17 @@
+{
+  "id": "compbio-vscode-customizations",
+  "version": "1.0.0",
+  "name": "CompBio VS Code Customizations",
+  "documentationURL": "https://github.com/yourusername/compbio-vscode-feature",
+  "options": {},
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.pythonPath": "${workspaceFolder}/.venv/bin/python"
+      }
+    }
+  },
+  "install": {
+    "script": "./install.sh"
+  }
+}
